@@ -1,7 +1,3 @@
-⚠️The project owner's GitHub mobile application's 2FA was broken, preventing login and rendering the project obsolete. We have migrated to a new project.
-
-New Project:[Github](https://github.com/ShiroDyeNotFound/Instruction-Console)
-
 [![Discord](https://img.shields.io/discord/1305535111697141790?label=Discord&logo=discord&color=7289DA)](https://discord.gg/fBRMhdnhSW)
 
 ## 📄 License / 许可证
